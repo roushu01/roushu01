@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @roushu01
+- 👀 I’m interested in web development
+-  I'm the author of this project
